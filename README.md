@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 # 📊 Customer Churn Analysis Using Python
+
+📊 Interactive notebook available via NBViewer:  
+https://nbviewer.org/github/Thiago-Dias1985/Customer-Churn-Analysis/blob/main/jornadaPythonAnalise1/inicial.ipynb
+
 ## 🧾 Executive Summary | Resumo Executivo
 
 ### 🇧🇷 Português (Brasil)
