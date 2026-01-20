@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Customer Churn Analysis Using Python
 ## 🧾 Executive Summary | Resumo Executivo
 
@@ -221,3 +222,7 @@ Interactive visualizations were created using **Plotly** to highlight patterns a
 
 ```bash
 pip install pandas plotly ipython
+=======
+# Customer-Churn-Analysis
+Customer churn analysis using Python and Pandas | Análise de cancelamento de clientes com Python.
+>>>>>>> f33ac689a4815cbb355dd8282a926fa27f05a105
